@@ -1,0 +1,6 @@
+#ifndef DNS_CONFIG_GRE_TUNNEL 
+#define DNS_CONFIG_GRE_TUNNEL
+#endif 
+
+#undef DNS_CONFIG_GRE_TUNNEL
+
